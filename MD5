@@ -1,0 +1,17 @@
+ff6df5b35b6ff536e8aec7392fb2ce3d *DESCRIPTION
+16f709acf6636a4b41d1dbaf38721505 *NAMESPACE
+3d1d4310dbc7f31c40d3f22ec0db291f *NEWS.md
+c820603cdbdfc1e5616e6bbead17647b *R/parse_url.R
+2febbf240806ea8dda422544094c2a68 *R/tag_examplesShinylive.R
+bb42ffdad127800f361538ad4d5ee204 *README.md
+895164a113c2a209767228e3d58fe85e *inst/WORDLIST
+f4e2bbef55efb77776a0c16ab9273f9b *man/create_shinylive_url.Rd
+b7ad9d66fde31dc4dfd0b9d3ecb62185 *man/figures/function.gif
+9d40d7e981157cb972ad359333669a4b *man/figures/vignette.gif
+4ec39a8d2e45df2c0101140643ba076f *man/tag-examplesShinylive.Rd
+531aada3ebac81098250eb6a6df214b2 *tests/testthat.R
+6b697593ad22ff702fa49e7ffd93ca60 *tests/testthat/_snaps/tag_examplesShinylive.md
+8afb0dd714859d6c106543e0f4482183 *tests/testthat/_snaps/tag_examplesShinylive.new.md
+e1eebf1cf7fc0822e4b4e5c8a56eb09f *tests/testthat/setup-options.R
+0a9427e379c2c16a6d00f15473717fa4 *tests/testthat/test-parse_url.R
+ebc2d0f5760e4bc0fc6d492d3f213101 *tests/testthat/test-tag_examplesShinylive.R
